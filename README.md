@@ -1,6 +1,6 @@
 # `pruneimap` - Remove empty imap folders
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/typomedia/gitti)](https://pkg.go.dev/github.com/typomedia/gitti)
+[![Go Reference](https://pkg.go.dev/badge/github.com/typomedia/pruneimap)](https://pkg.go.dev/github.com/typomedia/pruneimap)
 [![Go Report Card](https://goreportcard.com/badge/github.com/typomedia/pruneimap)](https://goreportcard.com/report/github.com/typomedia/pruneimap)
 
 `pruneimap` is a command line tool to remove empty folders from an IMAP server.
